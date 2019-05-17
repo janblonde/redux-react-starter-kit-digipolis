@@ -1,3 +1,1 @@
-Extra stap: npm install redux react-redux redux-thunk --save
-
-Dan: npm start
+Extra dependency: npm install redux react-redux redux-thunk --save
